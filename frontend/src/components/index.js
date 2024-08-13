@@ -1,0 +1,16 @@
+export { default as StudentList } from './StudentList';
+export { default as StudentForm } from './StudentForm';
+export { default as ScholarshipList } from './ScholarshipList';
+export { default as ScholarshipForm } from './ScholarshipForm';
+export { default as HODList } from './HODList';
+export { default as HODForm } from './HODForm';
+export { default as PrincipalList } from './PrincipalList';
+export { default as PrincipalForm } from './PrincipalForm';
+export { default as FinanceHeadList } from './FinanceHeadList';
+export { default as FinanceHeadForm } from './FinanceHeadForm';
+export { default as ApplicationList } from './ApplicationList';
+export { default as ApplicationForm } from './ApplicationForm';
+export { default as DocumentList } from './DocumentList';
+export { default as DocumentForm } from './DocumentForm';
+export { default as NotificationList } from './NotificationList';
+export { default as NotificationForm } from './NotificationForm';

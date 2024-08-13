@@ -1,0 +1,28 @@
+/* src/components/ScholarshipList.css */
+.scholarship-list {
+    margin: 20px;
+    padding: 20px;
+}
+
+.scholarship-list h1 {
+    margin-bottom: 20px;
+    font-size: 24px;
+}
+
+.scholarship-list table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.scholarship-list table, th, td {
+    border: 1px solid #ddd;
+}
+
+.scholarship-list th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+.scholarship-list th {
+    background-color: #f4f4f4;
+}

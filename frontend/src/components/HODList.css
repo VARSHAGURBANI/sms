@@ -1,0 +1,28 @@
+/* src/components/HODList.css */
+.hod-list {
+    margin: 20px;
+    padding: 20px;
+}
+
+.hod-list h1 {
+    margin-bottom: 20px;
+    font-size: 24px;
+}
+
+.hod-list table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.hod-list table, th, td {
+    border: 1px solid #ddd;
+}
+
+.hod-list th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+.hod-list th {
+    background-color: #f4f4f4;
+}

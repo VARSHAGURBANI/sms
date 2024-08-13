@@ -1,0 +1,28 @@
+/* src/components/ApplicationList.css */
+.application-list {
+    margin: 20px;
+    padding: 20px;
+}
+
+.application-list h1 {
+    margin-bottom: 20px;
+    font-size: 24px;
+}
+
+.application-list table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.application-list table, th, td {
+    border: 1px solid #ddd;
+}
+
+.application-list th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+.application-list th {
+    background-color: #f4f4f4;
+}

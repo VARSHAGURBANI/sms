@@ -1,0 +1,28 @@
+/* src/components/FinanceHeadList.css */
+.finance-head-list {
+    margin: 20px;
+    padding: 20px;
+}
+
+.finance-head-list h1 {
+    margin-bottom: 20px;
+    font-size: 24px;
+}
+
+.finance-head-list table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.finance-head-list table, th, td {
+    border: 1px solid #ddd;
+}
+
+.finance-head-list th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+.finance-head-list th {
+    background-color: #f4f4f4;
+}

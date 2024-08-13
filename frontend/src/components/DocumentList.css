@@ -1,0 +1,28 @@
+/* src/components/DocumentList.css */
+.document-list {
+    margin: 20px;
+    padding: 20px;
+}
+
+.document-list h1 {
+    margin-bottom: 20px;
+    font-size: 24px;
+}
+
+.document-list table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.document-list table, th, td {
+    border: 1px solid #ddd;
+}
+
+.document-list th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+.document-list th {
+    background-color: #f4f4f4;
+}

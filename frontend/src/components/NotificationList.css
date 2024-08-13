@@ -1,0 +1,28 @@
+/* src/components/NotificationList.css */
+.notification-list {
+    margin: 20px;
+    padding: 20px;
+}
+
+.notification-list h1 {
+    margin-bottom: 20px;
+    font-size: 24px;
+}
+
+.notification-list table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.notification-list table, th, td {
+    border: 1px solid #ddd;
+}
+
+.notification-list th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+.notification-list th {
+    background-color: #f4f4f4;
+}

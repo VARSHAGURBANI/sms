@@ -1,0 +1,28 @@
+/* src/components/PrincipalList.css */
+.principal-list {
+    margin: 20px;
+    padding: 20px;
+}
+
+.principal-list h1 {
+    margin-bottom: 20px;
+    font-size: 24px;
+}
+
+.principal-list table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.principal-list table, th, td {
+    border: 1px solid #ddd;
+}
+
+.principal-list th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+.principal-list th {
+    background-color: #f4f4f4;
+}
